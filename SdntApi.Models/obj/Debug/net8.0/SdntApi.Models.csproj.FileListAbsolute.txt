@@ -1,0 +1,13 @@
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\bin\Debug\net8.0\SdntApi.Models.deps.json
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\bin\Debug\net8.0\SdntApi.Models.runtimeconfig.json
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\bin\Debug\net8.0\SdntApi.Models.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\bin\Debug\net8.0\SdntApi.Models.pdb
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\obj\Debug\net8.0\SdntApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\obj\Debug\net8.0\SdntApi.Models.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\obj\Debug\net8.0\SdntApi.Models.AssemblyInfo.cs
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\obj\Debug\net8.0\SdntApi.Models.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\obj\Debug\net8.0\SdntApi.Models.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\obj\Debug\net8.0\refint\SdntApi.Models.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\obj\Debug\net8.0\SdntApi.Models.pdb
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\obj\Debug\net8.0\SdntApi.Models.genruntimeconfig.cache
+E:\C#\C#_REPOS\SdntApi\SdntApi.Models\obj\Debug\net8.0\ref\SdntApi.Models.dll

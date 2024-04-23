@@ -1,0 +1,17 @@
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\bin\Debug\net8.0\SdntApi.Business.deps.json
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\bin\Debug\net8.0\SdntApi.Business.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\bin\Debug\net8.0\SdntApi.Business.pdb
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\bin\Debug\net8.0\SdntApi.Data.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\bin\Debug\net8.0\SdntApi.Models.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\bin\Debug\net8.0\SdntApi.Data.pdb
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\bin\Debug\net8.0\SdntApi.Models.pdb
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\SdntApi.Business.csproj.AssemblyReference.cache
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\SdntApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\SdntApi.Business.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\SdntApi.Business.AssemblyInfo.cs
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\SdntApi.Business.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\SdntApi..82461446.Up2Date
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\SdntApi.Business.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\refint\SdntApi.Business.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\SdntApi.Business.pdb
+E:\C#\C#_REPOS\SdntApi\SdntApi.Business\obj\Debug\net8.0\ref\SdntApi.Business.dll

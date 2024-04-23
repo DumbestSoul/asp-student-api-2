@@ -1,0 +1,6 @@
+@SdntApi_HostAddress = http://localhost:5213
+
+GET {{SdntApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

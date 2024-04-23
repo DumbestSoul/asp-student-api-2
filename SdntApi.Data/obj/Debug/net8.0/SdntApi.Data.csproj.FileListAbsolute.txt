@@ -1,0 +1,15 @@
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\bin\Debug\net8.0\SdntApi.Data.deps.json
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\bin\Debug\net8.0\SdntApi.Data.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\bin\Debug\net8.0\SdntApi.Data.pdb
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\bin\Debug\net8.0\SdntApi.Models.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\bin\Debug\net8.0\SdntApi.Models.pdb
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\SdntApi.Data.csproj.AssemblyReference.cache
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\SdntApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\SdntApi.Data.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\SdntApi.Data.AssemblyInfo.cs
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\SdntApi.Data.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\SdntApi..11E11D43.Up2Date
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\SdntApi.Data.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\refint\SdntApi.Data.dll
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\SdntApi.Data.pdb
+E:\C#\C#_REPOS\SdntApi\SdntApi.Data\obj\Debug\net8.0\ref\SdntApi.Data.dll
